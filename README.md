@@ -16,11 +16,10 @@ https://www.lrs.lt/home/Konstitucija/Konstitucija20220522.htm
 >**I SKIRSNIS**  
 >**LIETUVOS VALSTYBĖ**
 >
->**12 straipsnis**  
+>**12 straipsnis** 
 >Lietuvos Respublikos pilietybė įgyjama gimstant ir kitais įstatymo nustatytais pagrindais.  
 >**Išskyrus įstatymo numatytus atskirus atvejus, niekas negali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis.**  
 >Pilietybės įgijimo ir netekimo tvarką nustato įstatymas.   
->    <br>  
   
 <br>
 
@@ -28,10 +27,10 @@ https://www.lrs.lt/home/Konstitucija/Konstitucija20220522.htm
 
 https://www.vrk.lt/documents/10180/790705/Referendumo+biuletenis/b677d97a-bd0f-4f19-911a-7f9953e2c9c7
   
->**12 straipsnis**  
+
+>**12 straipsnis (siūlomas išdėstymas)**   
 >Lietuvos Respublikos pilietybė įgyjama gimstant ir kitais konstitucinio įstatymo nustatytais pagrindais ir tvarka.  
 >Konstitucinis įstatymas taip pat nustato Lietuvos Respublikos pilietybės netekimo pagrindus ir tvarką.  
->    <br>  
     
 <br>
 
@@ -46,12 +45,12 @@ Siūlomas 12 Konstitucijos straipsnio pakeitimas tiesiogiai nesuteikia visiems p
 <br>
 
 # Rinkėjų skaičius, reikalingas Konstitucijai pakeisti
-  
-#### Bendras rinkėjų skaičius 2024 m. referendume:
 
 [Duomenys paimti iš oficialaus rinkėjo puslapio www.rinkejopuslapis.lt](https://www.rinkejopuslapis.lt/ataskaitu-formavimas)
 
-### Bendras rinkėjų skaičius 2024 m. gegužės 12 d. referendume dėl pilietybės išsaugojimo: **2 381 093**  
+### Bendras rinkėjų skaičius 2024 m. referendume:
+
+### **2 381 093**  
   
 <br>
 
@@ -66,8 +65,9 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ea72a0d2f93011ecbfe9c72e552dd5bd
 >
 >
 >1. Privalomasis referendumas laikomas įvykusiu, jeigu **jame dalyvavo daugiau kaip pusė piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašą**.  
->  <br>
-### Reikalingas balsuotojų skaičius **2024 m. gegužės 12 d.** referendume, kad jis būtų laikomas įvykusiu: **1 190 548**  
+  
+### Reikalingas balsuotojų skaičius **2024 m. gegužės 12 d.** referendume, kad jis būtų laikomas įvykusiu: 
+### **1 190 548**  
   
 <br>
     
@@ -76,15 +76,16 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ea72a0d2f93011ecbfe9c72e552dd5bd
 
 https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ea72a0d2f93011ecbfe9c72e552dd5bd
 
-LIETUVOS RESPUBLIKOS REFERENDUMO KONSTITUCINIS ĮSTATYMAS  
-  
-8 straipsnis. Privalomojo referendumo rezultatų nustatymas  
-  
-  
-3. Sprendimas dėl Konstitucijos I skirsnio „Lietuvos valstybė“ ir XIV skirsnio „Konstitucijos keitimas“ nuostatų pakeitimo yra laikomas priimtu, jeigu tam pritarė **daugiau kaip pusė piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašą**.
+> LIETUVOS RESPUBLIKOS REFERENDUMO KONSTITUCINIS ĮSTATYMAS  
+>  
+> 8 straipsnis. Privalomojo referendumo rezultatų nustatymas  
+>  
+>  
+> 3. Sprendimas dėl Konstitucijos I skirsnio „Lietuvos valstybė“ ir XIV skirsnio „Konstitucijos keitimas“ nuostatų pakeitimo yra laikomas priimtu, jeigu tam pritarė **daugiau kaip pusė piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašą**.
 
 
-### Reikalingas **„TAIP“** balsų skaičius 2024 m. gegužės 12 d. referendume, kad būtų priimta siūloma 12 konstitucijos straipsnio formuluotė: **595 275**  
+### Reikalingas **„TAIP“** balsų skaičius 2024 m. gegužės 12 d. referendume, kad būtų priimta siūloma 12 konstitucijos straipsnio formuluotė: 
+### **595 275**  
   
 <br>  
 
