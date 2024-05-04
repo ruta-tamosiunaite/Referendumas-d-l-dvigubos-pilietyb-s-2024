@@ -84,12 +84,12 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ea72a0d2f93011ecbfe9c72e552dd5bd
 > 3. Sprendimas dėl Konstitucijos I skirsnio „Lietuvos valstybė“ ir XIV skirsnio „Konstitucijos keitimas“ nuostatų pakeitimo yra laikomas priimtu, jeigu tam pritarė **daugiau kaip pusė piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašą**.
 
 
-### Reikalingas **„TAIP“** balsų skaičius 2024 m. gegužės 12 d. referendume, kad būtų priimta siūloma 12 konstitucijos straipsnio formuluotė: 
+### Reikalingas **„TAIP“** balsų skaičius 2024 m. gegužės 12 d. referendume, kad būtų priimta siūloma 12 Konstitucijos straipsnio formuluotė: 
 ### **595 275**  
   
 <br>  
 
-## Ankstesnis 2019 m. referendumas dėl 12 konstitucijos straipsnio pakeitimo:
+## Ankstesnis 2019 m. referendumas dėl 12 Konstitucijos straipsnio pakeitimo:
 
 https://www.vrk.lt/ankstesni
 
@@ -111,7 +111,7 @@ Atsakė „Taip“ procentais nuo bendro rinkėjų skaičiaus: **35,26 %**
 *Referendumo nuostatai įgyvendinti balsų nepakako* 
 <br><br>
 
-## 2024 ir 2019 m. referendumų dėl 12 konstitucijos straipsnio pakeitimo palyginimas:
+## 2024 ir 2019 m. referendumų dėl 12 Konstitucijos straipsnio pakeitimo palyginimas:
 
 | Referendumo data | Reikalingas rinkėjų skaičius, kad referendumas įvyktų | Reikalingas balsų **„TAIP“** skaičius, kad nuostata būtų priimta | Dalyvavo rinkėjų | Atsakė „Taip“ |
 |:-----------------:|:-------------------------------------------------------:|:-----------------------------------------------------------------:|:--------------:|:--------------:|
